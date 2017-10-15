@@ -11,4 +11,4 @@ Of the two deques, you take the first card of the second index deque comparing w
 
 Each moving causes the second deque decreasing by one card. Repeating the steps above, the second deque has no more cards, and there is one combining deque. Put the deque in queue according to the last card being first or not. Nevertheless, put the deque from queue first and then the combining one. After several iterations, there is only one deque in the stack. File out all cards starting from top of the deque. 
  
-Detailed is in cpp file
+
