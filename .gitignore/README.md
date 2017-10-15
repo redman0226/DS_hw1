@@ -1,7 +1,6 @@
 # DS_hw1
 
 To understand how an implementation of an ADT is used by an application program.
-
 To become familiar with how to implement the Stack & Queue . 
 
 Problem Definition
